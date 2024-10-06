@@ -20,4 +20,5 @@ This project is an e-commerce website designed to mimic the layout and functiona
    
 2.Open index.html in your web browser to view the website.
 ## Screenshots:
-Here are some screenshots of the Amazon clone interface:https://github.com/RitviTiwari/Responsive-Amazon-Website-Clone/blob/main/_C__Users_tiwar_OneDrive_Desktop_webtech_main.html.png
+Here are some screenshots:
+https://github.com/RitviTiwari/Responsive-Amazon-Website-Clone/blob/main/Amazon%20website%20screenshot.png
